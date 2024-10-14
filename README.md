@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wkshum. I am learning to view every thing as program.
+- 👋 Hi, I’m @wkshum. I am learning to view everything as program.
 
 
 <!---
